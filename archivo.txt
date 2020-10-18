@@ -2,5 +2,9 @@ Esta es una prueba de git
 Donde tengo 25 anios
 
 Y tengo muchas ganas de aprender
+<<<<<<< HEAD
 Ahora este es el tercer cambio que hago
 ahor
+=======
+Ahora este es el tercer cambio que hago
+>>>>>>> cabecera

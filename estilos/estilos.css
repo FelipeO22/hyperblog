@@ -3,3 +3,30 @@ body {
     text-align: center;
     font-family: "Arial";
 }
+
+#container {
+    width: 70%;
+    padding: 1px;
+    text-align: center;
+    border: 1px solid deeppink;
+    margin: 0px auto;
+}
+
+#cabecera {
+    background: darkblue;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#container h1 {
+    font-size: 20px;
+}
+
+#cabecera #tagline {
+    margin: 0px;
+    font-weight: normal;
+    font-size: 0.8em;
+}
